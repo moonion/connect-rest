@@ -1,6 +1,6 @@
 {
   "name": "connect-rest",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "Exceptionally featureful RESTful web services middleware for Connect.",
   "keywords": [
     "connect",
@@ -9,13 +9,13 @@
     "router",
     "api"
   ],
-  "homepage": "https://github.com/imrefazekas/connect-rest",
+  "homepage": "https://github.com/moonion/connect-rest",
   "repository": {
     "type": "git",
-    "url": "git://github.com/imrefazekas/connect-rest.git"
+    "url": "git://github.com/moonion/connect-rest.git"
   },
   "bugs": {
-    "url": "http://github.com/imrefazekas/connect-rest/issues"
+    "url": "http://github.com/moonion/connect-rest/issues"
   },
   "author": {
     "name": "Imre Fazekas",
